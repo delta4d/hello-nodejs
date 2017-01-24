@@ -1,0 +1,27 @@
+{
+    "name": "delta-hello-nodejs",
+    "version": "0.0.1",
+    "description": "hello nodejs",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --reporter spec"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/delta4d/hello-nodejs.git"
+    },
+    "keywords": [
+        "hello",
+        "beginner"
+    ],
+    "author": "delta",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/delta4d/hello-nodejs/issues"
+    },
+    "homepage": "https://github.com/delta4d/hello-nodejs#readme",
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "mocha": "^3.2.0"
+    }
+}
